@@ -5,10 +5,10 @@
 // The most basic types of data are numbers
 // and strings.
 
-/* const aRandomString = 'ThIs Is A sTrInG console.log(what)';
-const aRandomNumber = Math.random(1, 100)*100;
-console.log(aRandomString, typeof aRandomString)
-console.log(aRandomNumber, typeof aRandomNumber) */
+const aRandomString = "ThIs Is A sTrInG console.log(what)";
+const aRandomNumber = Math.random(1, 100) * 100;
+console.log(aRandomString, typeof aRandomString);
+console.log(aRandomNumber, typeof aRandomNumber);
 
 // while learning we can use the typeof to see
 // what type the variable is
@@ -33,7 +33,7 @@ slicesOfPizzaLeft = 'turtle' */
 
 /* const isThisFun = true;
 console.log(isThisFun, typeof isThisFun)
-// or 
+// or
 const twoGreaterOne = 2 > 1; //true
 console.log(twoGreaterOne, typeof twoGreaterOne) */
 
@@ -69,27 +69,27 @@ console.log(aRandomList, typeof aRandomList) */
 // another common type of data is an object
 // you can think of this as a box of vars
 
-const aPersonLikeObject = {
-  firstName: "Don",
-  lastName: "Cheadle",
-  age: 45,
-  isAlive: true,
-  movies: ["movie title", "movie title two", "movie"],
-  father: {
-    firstName: "Papa",
-    lastName: "Cheeds",
-    age: 75,
-    isAlive: true,
-  },
-  mother: {
-    firstName: "Momma",
-    lastName: "Cheeds",
-    age: 76,
-    isAlive: false,
-  },
-};
+// const aPersonLikeObject = {
+//   firstName: "Don",
+//   lastName: "Cheadle",
+//   age: 45,
+//   isAlive: true,
+//   movies: ["movie title", "movie title two", "movie"],
+//   father: {
+//     firstName: "Papa",
+//     lastName: "Cheeds",
+//     age: 75,
+//     isAlive: true,
+//   },
+//   mother: {
+//     firstName: "Momma",
+//     lastName: "Cheeds",
+//     age: 76,
+//     isAlive: false,
+//   },
+// };
 
-console.log(aPersonLikeObject, typeof aPersonLikeObject);
+// console.log(aPersonLikeObject, typeof aPersonLikeObject);
 
 // this creates aPersonLikeObject and gives it key-value
 // pairs to store information
