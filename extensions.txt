@@ -1,0 +1,9 @@
+2gua.rainbow-brackets
+dbaeumer.vscode-eslint
+ecmel.vscode-html-css
+esbenp.prettier-vscode
+formulahendry.code-runner
+mde.select-highlight-minimap
+naumovs.color-highlight
+shardulm94.trailing-spaces
+stevencl.addDocComments
